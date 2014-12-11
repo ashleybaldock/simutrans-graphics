@@ -1,0 +1,1 @@
+..\makeobj pak ./brick_viaduct64.pak ./brick_viaduct64.dat >err.txt

@@ -1,0 +1,137 @@
+# Iron Girder bridge (new track)
+# http://simutrans.entropy.me.uk
+#
+# Base maintenance = 800
+# Base cost = 100000
+# Base length = 8
+# Base weight = 100
+#
+Obj=bridge
+name=iron_girder_cobblestoneroad
+copyright=Timothy Baldock
+waytype=road
+cost=107000
+maintenance=1300
+topspeed=60
+max_weight=100
+max_lenght=8
+intro_year=1900
+intro_month=1
+retire_year=
+retire_month=
+pillar_distance=1
+#
+cursor=/images/iron-girder-newtrack.3.10
+icon=> /images/iron-girder-newtrack.3.11
+backPillar[S]=/images/iron-girder-newtrack.2.10
+backPillar[W]=/images/iron-girder-newtrack.2.11
+#
+BackImage[NS]=/images/iron-girder-newtrack.0.6
+FrontImage[NS]=/images/iron-girder-newtrack.1.6
+BackImage[EW]=/images/iron-girder-newtrack.0.7
+FrontImage[EW]=/images/iron-girder-newtrack.1.7
+#
+BackRamp[N]=/images/iron-girder-newtrack.0.11
+FrontRamp[N]=/images/iron-girder-newtrack.1.11
+BackRamp[W]=/images/iron-girder-newtrack.0.10
+FrontRamp[W]=/images/iron-girder-newtrack.1.10
+BackRamp[S]=/images/iron-girder-newtrack.0.8
+FrontRamp[S]=/images/iron-girder-newtrack.1.8
+BackRamp[E]=/images/iron-girder-newtrack.0.9
+FrontRamp[E]=/images/iron-girder-newtrack.1.9
+#
+BackStart[N]=/images/iron-girder-newtrack.2.9
+FrontStart[N]=/images/iron-girder-newtrack.3.9
+BackStart[S]=/images/iron-girder-newtrack.2.6
+FrontStart[S]=/images/iron-girder-newtrack.3.6
+BackStart[E]=/images/iron-girder-newtrack.2.7
+FrontStart[E]=/images/iron-girder-newtrack.3.7
+BackStart[W]=/images/iron-girder-newtrack.2.8
+FrontStart[W]=/images/iron-girder-newtrack.3.8
+----------------------------------------------
+Obj=bridge
+name=iron_girder_woodentrack
+copyright=Timothy Baldock
+waytype=track
+cost=108000
+maintenance=1300
+topspeed=120
+max_weight=100
+max_lenght=8
+intro_year=1900
+intro_month=1
+retire_year=
+retire_month=
+pillar_distance=1
+#
+cursor=/images/iron-girder-newtrack.7.4
+icon=> /images/iron-girder-newtrack.7.5
+backPillar[S]=/images/iron-girder-newtrack.6.4
+backPillar[W]=/images/iron-girder-newtrack.6.5
+#
+BackImage[NS]=/images/iron-girder-newtrack.4.0
+FrontImage[NS]=/images/iron-girder-newtrack.5.0
+BackImage[EW]=/images/iron-girder-newtrack.4.1
+FrontImage[EW]=/images/iron-girder-newtrack.5.1
+#
+BackRamp[N]=/images/iron-girder-newtrack.4.5
+FrontRamp[N]=/images/iron-girder-newtrack.5.5
+BackRamp[W]=/images/iron-girder-newtrack.4.4
+FrontRamp[W]=/images/iron-girder-newtrack.5.4
+BackRamp[S]=/images/iron-girder-newtrack.4.2
+FrontRamp[S]=/images/iron-girder-newtrack.5.2
+BackRamp[E]=/images/iron-girder-newtrack.4.3
+FrontRamp[E]=/images/iron-girder-newtrack.5.3
+#
+BackStart[N]=/images/iron-girder-newtrack.6.3
+FrontStart[N]=/images/iron-girder-newtrack.7.3
+BackStart[S]=/images/iron-girder-newtrack.6.0
+FrontStart[S]=/images/iron-girder-newtrack.7.0
+BackStart[E]=/images/iron-girder-newtrack.6.1
+FrontStart[E]=/images/iron-girder-newtrack.7.1
+BackStart[W]=/images/iron-girder-newtrack.6.2
+FrontStart[W]=/images/iron-girder-newtrack.7.2
+----------------------------------------------
+Obj=bridge
+name=iron_girder_asphaltroad
+copyright=Timothy Baldock
+waytype=road
+cost=110000
+maintenance=1600
+topspeed=100
+max_weight=100
+max_lenght=8
+intro_year=1940
+intro_month=1
+retire_year=
+retire_month=
+pillar_distance=1
+#
+cursor=/images/iron-girder-newtrack.7.10
+icon=> /images/iron-girder-newtrack.7.11
+backPillar[S]=/images/iron-girder-newtrack.6.10
+backPillar[W]=/images/iron-girder-newtrack.6.11
+#
+BackImage[NS]=/images/iron-girder-newtrack.4.6
+FrontImage[NS]=/images/iron-girder-newtrack.5.6
+BackImage[EW]=/images/iron-girder-newtrack.4.7
+FrontImage[EW]=/images/iron-girder-newtrack.5.7
+#
+BackRamp[N]=/images/iron-girder-newtrack.4.11
+FrontRamp[N]=/images/iron-girder-newtrack.5.11
+BackRamp[W]=/images/iron-girder-newtrack.4.10
+FrontRamp[W]=/images/iron-girder-newtrack.5.10
+BackRamp[S]=/images/iron-girder-newtrack.4.8
+FrontRamp[S]=/images/iron-girder-newtrack.5.8
+BackRamp[E]=/images/iron-girder-newtrack.4.9
+FrontRamp[E]=/images/iron-girder-newtrack.5.9
+#
+BackStart[N]=/images/iron-girder-newtrack.6.9
+FrontStart[N]=/images/iron-girder-newtrack.7.9
+BackStart[S]=/images/iron-girder-newtrack.6.6
+FrontStart[S]=/images/iron-girder-newtrack.7.6
+BackStart[E]=/images/iron-girder-newtrack.6.7
+FrontStart[E]=/images/iron-girder-newtrack.7.7
+BackStart[W]=/images/iron-girder-newtrack.6.8
+FrontStart[W]=/images/iron-girder-newtrack.7.8
+----------------------------------------------

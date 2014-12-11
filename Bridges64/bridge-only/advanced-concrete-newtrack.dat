@@ -1,0 +1,94 @@
+# Advanced Concrete bridge (new tracks)
+# http://simutrans.entropy.me.uk
+#
+# Base maintenance = 700
+# Base cost = 250000
+# Base length = 24
+# Base weight = 150
+#
+Obj=bridge
+name=advanced_concrete_concretetrack
+copyright=Timothy_Baldock
+waytype=track
+cost=262000
+maintenance=1500
+topspeed=200
+max_weight=150
+max_lenght=24
+intro_year=1990
+intro_month=5
+retire_year=
+retire_month=
+pillar_distance=1
+#
+cursor=/images/advanced-concrete-newtrack.3.4
+icon=> /images/advanced-concrete-newtrack.3.5
+backPillar[S]=/images/advanced-concrete-newtrack.2.4
+backPillar[W]=/images/advanced-concrete-newtrack.2.5
+#
+BackImage[NS]=/images/advanced-concrete-newtrack.0.0
+FrontImage[NS]=/images/advanced-concrete-newtrack.1.0
+BackImage[EW]=/images/advanced-concrete-newtrack.0.1
+FrontImage[EW]=/images/advanced-concrete-newtrack.1.1
+#
+BackRamp[N]=/images/advanced-concrete-newtrack.0.5
+FrontRamp[N]=/images/advanced-concrete-newtrack.1.5
+BackRamp[W]=/images/advanced-concrete-newtrack.0.4
+FrontRamp[W]=/images/advanced-concrete-newtrack.1.4
+BackRamp[S]=/images/advanced-concrete-newtrack.0.2
+FrontRamp[S]=/images/advanced-concrete-newtrack.1.2
+BackRamp[E]=/images/advanced-concrete-newtrack.0.3
+FrontRamp[E]=/images/advanced-concrete-newtrack.1.3
+#
+BackStart[N]=/images/advanced-concrete-newtrack.2.3
+FrontStart[N]=/images/advanced-concrete-newtrack.3.3
+BackStart[S]=/images/advanced-concrete-newtrack.2.0
+FrontStart[S]=/images/advanced-concrete-newtrack.3.0
+BackStart[E]=/images/advanced-concrete-newtrack.2.1
+FrontStart[E]=/images/advanced-concrete-newtrack.3.1
+BackStart[W]=/images/advanced-concrete-newtrack.2.2
+FrontStart[W]=/images/advanced-concrete-newtrack.3.2
+----------------------------------------------
+Obj=bridge
+name=advanced_concrete_steeltrack
+copyright=Timothy_Baldock
+waytype=track
+cost=290000
+maintenance=2300
+topspeed=450
+max_weight=130
+max_lenght=24
+intro_year=1995
+intro_month=5
+retire_year=
+retire_month=
+pillar_distance=1
+#
+cursor=/images/advanced-concrete-newtrack.7.4
+icon=> /images/advanced-concrete-newtrack.7.5
+backPillar[S]=/images/advanced-concrete-newtrack.6.4
+backPillar[W]=/images/advanced-concrete-newtrack.6.5
+#
+BackImage[NS]=/images/advanced-concrete-newtrack.4.0
+FrontImage[NS]=/images/advanced-concrete-newtrack.5.0
+BackImage[EW]=/images/advanced-concrete-newtrack.4.1
+FrontImage[EW]=/images/advanced-concrete-newtrack.5.1
+#
+BackRamp[N]=/images/advanced-concrete-newtrack.4.5
+FrontRamp[N]=/images/advanced-concrete-newtrack.5.5
+BackRamp[W]=/images/advanced-concrete-newtrack.4.4
+FrontRamp[W]=/images/advanced-concrete-newtrack.5.4
+BackRamp[S]=/images/advanced-concrete-newtrack.4.2
+FrontRamp[S]=/images/advanced-concrete-newtrack.5.2
+BackRamp[E]=/images/advanced-concrete-newtrack.4.3
+FrontRamp[E]=/images/advanced-concrete-newtrack.5.3
+#
+BackStart[N]=/images/advanced-concrete-newtrack.6.3
+FrontStart[N]=/images/advanced-concrete-newtrack.7.3
+BackStart[S]=/images/advanced-concrete-newtrack.6.0
+FrontStart[S]=/images/advanced-concrete-newtrack.7.0
+BackStart[E]=/images/advanced-concrete-newtrack.6.1
+FrontStart[E]=/images/advanced-concrete-newtrack.7.1
+BackStart[W]=/images/advanced-concrete-newtrack.6.2
+FrontStart[W]=/images/advanced-concrete-newtrack.7.2
+----------------------------------------------

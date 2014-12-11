@@ -1,0 +1,50 @@
+#
+#   EnCo Container Ship 
+#
+#   By Timothy Baldock
+#
+# Total capacity 32 + 24 + 24 + 20 = 100 containers
+#             1024 + 768 + 768 + 640 = 3200 crates peice goods
+#
+# Total Weight: 22,000 tonnes
+# Total power: 25,000kW
+# Total running cost: 6.50c/km
+# Speed: ~25 knots (46km/h)
+# Total cost: 4,000,000c
+#
+#
+obj=vehicle
+name=EnCo_Container-240
+copyright=Timothy Baldock
+waytype=water
+length=16
+engine_type=diesel
+power=100000
+freight=Buecher
+freight_catg=1
+payload=640
+speed=46
+cost=100000000
+weight=5500
+RunningCost=150
+intro_year=1992
+intro_month=6
+gear=200
+Constraint[Prev][0]=none
+Constraint[Next][0]=none
+EmptyImage[S]=/images/large_container_ship.0.0
+EmptyImage[E]=/images/large_container_ship.0.1 
+EmptyImage[SE]=/images/large_container_ship.0.2 
+EmptyImage[SW]=/images/large_container_ship.0.3 
+EmptyImage[N]=/images/large_container_ship.0.4 
+EmptyImage[W]=/images/large_container_ship.0.5 
+EmptyImage[NW]=/images/large_container_ship.0.6 
+EmptyImage[NE]=/images/large_container_ship.0.7
+FreightImage[S]=/images/large_container_ship.0.0
+FreightImage[E]=/images/large_container_ship.0.1 
+FreightImage[SE]=/images/large_container_ship.0.2 
+FreightImage[SW]=/images/large_container_ship.0.3 
+FreightImage[N]=/images/large_container_ship.0.4 
+FreightImage[W]=/images/large_container_ship.0.5 
+FreightImage[NW]=/images/large_container_ship.0.6 
+FreightImage[NE]=/images/large_container_ship.0.7

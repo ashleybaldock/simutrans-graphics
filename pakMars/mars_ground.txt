@@ -1,0 +1,122 @@
+#
+# Martian Ground
+#
+Obj=ground
+Name=Gras
+# hangtyp * animation
+Image[0][0]=/images/mars_ground.0.14
+Image[1][0]=/images/mars_ground.0.6
+Image[2][0]=/images/mars_ground.0.7
+Image[3][0]=/images/mars_ground.0.2
+Image[4][0]=/images/mars_ground.0.4
+Image[5][0]=/images/mars_ground.0.11
+Image[6][0]=/images/mars_ground.0.3
+Image[7][0]=/images/mars_ground.0.12
+Image[8][0]=/images/mars_ground.0.5
+Image[9][0]=/images/mars_ground.0.1
+Image[10][0]=/images/mars_ground.0.13
+Image[11][0]=/images/mars_ground.0.10
+Image[12][0]=/images/mars_ground.0.0
+Image[13][0]=/images/mars_ground.0.8
+Image[14][0]=/images/mars_ground.0.9
+# 4 special (variant) ground tiles
+Image[15][0]=/images/mars_ground.2.0
+Image[16][0]=/images/mars_ground.2.1
+Image[17][0]=/images/mars_ground.2.2
+Image[18][0]=/images/mars_ground.2.3
+# Gridded ground
+Image[19][0]=/images/mars_ground.1.14
+Image[20][0]=/images/mars_ground.1.6
+Image[21][0]=/images/mars_ground.1.7
+Image[22][0]=/images/mars_ground.1.2
+Image[23][0]=/images/mars_ground.1.4
+Image[24][0]=/images/mars_ground.1.11
+Image[25][0]=/images/mars_ground.1.3
+Image[26][0]=/images/mars_ground.1.12
+Image[27][0]=/images/mars_ground.1.5
+Image[28][0]=/images/mars_ground.1.1
+Image[29][0]=/images/mars_ground.1.13
+Image[30][0]=/images/mars_ground.1.10
+Image[31][0]=/images/mars_ground.1.0
+Image[32][0]=/images/mars_ground.1.8
+Image[33][0]=/images/mars_ground.1.9
+# 4 special (variant) ground tiles
+Image[34][0]=/images/mars_ground.3.0
+Image[35][0]=/images/mars_ground.3.1
+Image[36][0]=/images/mars_ground.3.2
+Image[37][0]=/images/mars_ground.3.3
+# Walls for artificial slopes
+Image[38][0]=/images/mars_ground.2.7
+Image[39][0]=/images/mars_ground.2.8
+Image[40][0]=/images/mars_ground.2.9
+Image[41][0]=/images/mars_ground.2.10
+Image[42][0]=/images/mars_ground.2.11
+Image[43][0]=/images/mars_ground.2.12
+Image[44][0]=/images/mars_ground.2.13
+Image[45][0]=/images/mars_ground.2.14
+Image[46][0]=/images/mars_ground.3.7
+Image[47][0]=/images/mars_ground.3.8
+Image[48][0]=/images/mars_ground.3.9
+Image[49][0]=/images/mars_ground.3.10
+Image[50][0]=/images/mars_ground.3.11
+Image[51][0]=/images/mars_ground.3.12
+Image[52][0]=/images/mars_ground.3.13
+Image[53][0]=/images/mars_ground.3.14
+--------------------
+# Different types of "water"
+Obj=ground
+Name=Water
+# hangtyp * animation
+Image[0][0]=/images/mars_ground.5.0
+Image[0][1]=/images/mars_ground.5.1
+Image[0][2]=/images/mars_ground.5.2
+Image[0][3]=/images/mars_ground.5.3
+# Image[0][4]=/images/mars_ground.5.4
+--------------------
+# Outside the map area
+Obj=ground
+Name=Outside
+# hangtyp * animation
+Image[0][0]=/images/mars_ground.5.0
+Image[0][1]=/images/mars_ground.5.1
+Image[0][2]=/images/mars_ground.5.2
+Image[0][3]=/images/mars_ground.5.3
+--------------------
+# Strange order, but fits with standard slope tiles
+Obj=ground
+Name=Shore
+# hangtyp * animation
+Image[0][0]=/images/mars_ground.4.14 # flat
+Image[1][0]=/images/mars_ground.4.6 # northeast outer
+Image[2][0]=/images/mars_ground.4.7 # northwest outer
+Image[3][0]=/images/mars_ground.4.2 # north
+Image[4][0]=/images/mars_ground.4.4 # southwest outer
+Image[5][0]=/images/mars_ground.4.11 # EW fix piece
+Image[6][0]=/images/mars_ground.4.3 # west
+Image[7][0]=/images/mars_ground.4.12 # northwest inner
+Image[8][0]=/images/mars_ground.4.5 # southeast outer
+Image[9][0]=/images/mars_ground.4.1 # east
+Image[10][0]=/images/mars_ground.4.13 # NS fix piece
+Image[11][0]=/images/mars_ground.4.10 # northeast inner
+Image[12][0]=/images/mars_ground.4.0 # south
+Image[13][0]=/images/mars_ground.4.8 # southeast inner
+Image[14][0]=/images/mars_ground.4.9 #southwest inner
+--------------------
+# The artificial slopes used by buildings
+Obj=ground
+Name=Basement
+# hangtyp * animation
+Image[1][0]=/images/mars_ground.5.7
+Image[2][0]=/images/mars_ground.5.8
+Image[3][0]=/images/mars_ground.5.9
+Image[4][0]=/images/mars_ground.5.10
+Image[5][0]=/images/mars_ground.5.11
+Image[6][0]=/images/mars_ground.5.12
+Image[7][0]=/images/mars_ground.5.13
+Image[8][0]=/images/mars_ground.5.14
+Image[9][0]=/images/mars_ground.6.7
+Image[10][0]=/images/mars_ground.6.8
+Image[11][0]=/images/mars_ground.6.9
+Image[12][0]=/images/mars_ground.6.10
+Image[13][0]=/images/mars_ground.6.11
+Image[14][0]=/images/mars_ground.6.12

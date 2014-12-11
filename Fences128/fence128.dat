@@ -1,0 +1,37 @@
+Obj=way
+Name=fence128
+waytype=track
+system_type=255
+cost=10000
+maintenance=50
+topspeed=5
+max_weight=1
+intro_year=1800
+cursor=/images/fence128.6.0
+icon=/images/fence128.6.1
+# rbis * animation
+Image[-]=/images/fence128.0.0
+Image[N]=/images/fence128.0.1
+Image[S]=/images/fence128.0.1
+Image[E]=/images/fence128.0.2
+Image[W]=/images/fence128.0.2
+Image[NS]=/images/fence128.0.1
+Image[EW]=/images/fence128.0.2
+Image[NSE]=/images/fence128.2.0
+Image[NSW]=/images/fence128.2.1
+Image[NEW]=/images/fence128.2.2
+Image[SEW]=/images/fence128.2.3
+Image[NSEW]=/images/fence128.0.3
+Image[NE]=/images/fence128.3.0
+Image[SE]=/images/fence128.3.1
+Image[NW]=/images/fence128.3.2
+Image[SW]=/images/fence128.3.3
+Diagonal[NE]=/images/fence128.3.0
+Diagonal[SE]=/images/fence128.3.1
+Diagonal[NW]=/images/fence128.3.2
+Diagonal[SW]=/images/fence128.3.3
+# hangtyp * animation
+ImageUp[3]=/images/fence128.5.0
+ImageUp[6]=/images/fence128.5.1
+ImageUp[9]=/images/fence128.5.2
+ImageUp[12]=/images/fence128.5.3

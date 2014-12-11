@@ -1,0 +1,78 @@
+#########################################
+#                                       #
+#  Mars Scenario-specific English text  #
+#                                       #
+#     V.0.1 - Last Updated 18/11/05     #
+#                                       #
+#########################################
+#                                       #
+#  Author: Timothy                      #
+#  URL: http://entropy.me.uk/simutrans/ #
+#                                       #
+#########################################
+#
+# Monuments
+#
+#
+# Factories
+#
+#
+# Trees
+#
+MarsTree1
+Blue Crystal Tree \n\nAn outcropping of a \ncommon type of\norganic crystal found \nall over the planet. While not really \nalive, these crystals closely \nresemble trees found on earth.\n
+Kohlegrube
+Coal Mine Yo
+#
+# Bridges, stations, track etc.
+#
+#
+# Trains
+#
+#
+# Trams
+#
+#
+# Busses
+#
+#
+# Ships
+#
+#
+# Goods
+#
+#
+# Buildings - Residential
+#
+Mars_Res_01
+Small habitation structure
+Mars_Res_02
+Small habitation structure
+Mars_Res_03
+Small habitation structure
+Mars_Res_04
+Small habitation structure
+Mars_Res_05
+Small habitation structure
+Mars_Res_06
+Small habitation structure
+Mars_Res_07
+Small habitation structure
+Mars_Res_08
+Small habitation structure
+Mars_Res_09
+Small habitation structure
+Mars_Res_10
+Small habitation structure
+#
+# Buildings - Commercial
+#
+#
+# Buildings - Industrial
+#
+#
+# Buildings - Special
+#
+#
+# Misc.
+#

@@ -1,0 +1,1 @@
+..\makeobj pak ./tb_signals.pak ./tb_signals.dat >err.txt

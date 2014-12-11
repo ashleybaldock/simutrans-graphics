@@ -1,0 +1,42 @@
+Obj=way
+Name=highway-test
+copyright=Timothy Baldock
+waytype=track
+system_type=1
+cost=95000
+maintenance=5000
+topspeed=300
+max_weight=200
+intro_year=2010
+intro_month=5
+cursor=/images/highway_tbt.3.4
+icon=>/images/highway_tbt.3.5
+# rbis * animation
+Image[-]=/images/highway_tbt.0.0
+Image[N]=/images/highway_tbt.0.0
+Image[S]=/images/highway_tbt.0.0
+Image[E]=/images/highway_tbt.0.1
+Image[W]=/images/highway_tbt.0.1
+Image[NS]=/images/highway_tbt.0.0
+FrontImage[NS]=-
+Image[EW]=/images/highway_tbt.0.1
+FrontImage[EW]=-
+Image[NSE]=/images/highway_tbt.0.0
+Image[NSW]=/images/highway_tbt.0.1
+Image[NEW]=/images/highway_tbt.0.2
+Image[SEW]=/images/highway_tbt.0.3
+Image[NSEW]=/images/highway_tbt.0.3
+Image[NE]=/images/highway_tbt.0.0
+Image[SE]=/images/highway_tbt.0.1
+Image[NW]=/images/highway_tbt.0.2
+Image[SW]=/images/highway_tbt.0.3
+# Diagonal[NE]=
+# Diagonal[SE]=
+# Diagonal[NW]=
+# Diagonal[SW]=
+# hangtyp * animation
+ImageUp[3]=/images/highway_tbt.0.0
+ImageUp[6]=/images/highway_tbt.0.1
+ImageUp[9]=/images/highway_tbt.0.2
+ImageUp[12]=/images/highway_tbt.0.3
+------------------------

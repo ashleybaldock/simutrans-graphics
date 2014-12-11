@@ -1,0 +1,173 @@
+
+
+
+
+
+# old:
+# capacity: DM: 88, T: 92, UNDM: 92
+# new:
+# capacity: DM: 92, T: 96, UNDM: 96
+#
+# speed: 120
+# weight: DM: 30, T: 20, UNDM: 29
+#
+# old:
+# intro: June 1975
+# retire: August 2000
+# new:
+# intro: June 1995
+# retire:
+#
+# old:
+# power: DM: 450, T: 0, UNDM: 450
+# new:
+# power: DM: 500, T: 0, UNDM: 500
+#
+# old:
+# running cost: DM: 65, T: 60, UNDM: 65
+# new:
+# running cost: DM: 55, T: 50, UNDM: 55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+obj=vehicle
+name=Tube1973Picadilly-FrontDM
+length=8
+waytype=track
+freight=Passagiere
+payload=92
+speed=120
+gear=145
+cost=3600000
+weight=30
+power=500
+RunningCost=50
+Sound=-1
+engine_type=electric
+intro_year=1975
+intro_month=1
+Constraint[Prev][0]=Tube1973Picadilly-RearDM
+Constraint[Prev][1]=Tube1973Picadilly-FrontUNDM
+Constraint[Prev][2]=none
+Constraint[Next][0]=Tube1973Picadilly-T
+EmptyImage[S]=/images/underground.8.0
+EmptyImage[E]=/images/underground.8.1
+EmptyImage[SE]=/images/underground.8.2
+EmptyImage[SW]=/images/underground.8.3
+EmptyImage[N]=/images/underground.8.4
+EmptyImage[W]=/images/underground.8.5
+EmptyImage[NW]=/images/underground.8.6
+EmptyImage[NE]=/images/underground.8.7
+-----------------------
+obj=vehicle
+name=Tube1973Picadilly-T
+length=8
+waytype=track
+freight=Passagiere
+payload=96
+speed=120
+cost=1900000
+weight=20
+RunningCost=55
+Sound=-1
+intro_year=1975
+intro_month=1
+Constraint[Prev][0]=Tube1973Picadilly-RearUNDM
+Constraint[Prev][1]=Tube1973Picadilly-FrontDM
+Constraint[Next][0]=Tube1973Picadilly-FrontUNDM
+Constraint[Next][1]=Tube1973Picadilly-RearDM
+EmptyImage[S]=/images/underground.10.4
+EmptyImage[W]=/images/underground.10.5
+EmptyImage[SE]=/images/underground.10.6
+EmptyImage[SW]=/images/underground.10.7	
+-----------------------
+obj=vehicle
+name=Tube1973Picadilly-FrontUNDM
+length=8
+waytype=track
+freight=Passagiere
+payload=96
+speed=120
+gear=145
+cost=3200000
+weight=29
+power=500
+RunningCost=55
+Sound=-1
+engine_type=electric
+intro_year=1975
+intro_month=1
+Constraint[Prev][0]=Tube1973Picadilly-T
+Constraint[Next][0]=Tube1973Picadilly-RearUNDM
+Constraint[Next][1]=Tube1973Picadilly-FrontDM
+EmptyImage[S]=/images/underground.10.4
+EmptyImage[W]=/images/underground.10.5
+EmptyImage[SE]=/images/underground.10.6
+EmptyImage[SW]=/images/underground.10.7
+-----------------------
+obj=vehicle
+name=Tube1973Picadilly-RearUNDM
+length=8
+waytype=track
+freight=Passagiere
+payload=96
+speed=120
+gear=145
+cost=3200000
+weight=29
+power=500
+RunningCost=55
+Sound=-1
+engine_type=electric
+intro_year=1975
+intro_month=1
+Constraint[Prev][0]=Tube1973Picadilly-FrontUNDM
+Constraint[Prev][1]=Tube1973Picadilly-RearDM
+Constraint[Next][0]=Tube1973Picadilly-T
+EmptyImage[S]=/images/underground.10.4
+EmptyImage[W]=/images/underground.10.5
+EmptyImage[SE]=/images/underground.10.6
+EmptyImage[SW]=/images/underground.10.7
+-----------------------
+obj=vehicle
+name=Tube1973Picadilly-RearDM
+length=8
+waytype=track
+freight=Passagiere
+payload=92
+speed=120
+gear=145
+cost=3600000
+weight=30
+power=500
+RunningCost=50
+Sound=-1
+engine_type=electric
+intro_year=1975
+intro_month=1
+Constraint[Prev][0]=Tube1973Picadilly-T
+Constraint[Next][0]=Tube1973Picadilly-FrontDM
+Constraint[Next][1]=Tube1973Picadilly-RearUNDM
+Constraint[Next][2]=none
+EmptyImage[S]=/images/underground.9.4
+EmptyImage[E]=/images/underground.9.5
+EmptyImage[SE]=/images/underground.8.6
+EmptyImage[SW]=/images/underground.9.7
+EmptyImage[N]=/images/underground.9.0
+EmptyImage[W]=/images/underground.9.1
+EmptyImage[NW]=/images/underground.9.2
+EmptyImage[NE]=/images/underground.9.3
+-----------------------

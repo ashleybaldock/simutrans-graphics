@@ -1,0 +1,429 @@
+###########################################
+#                                         #
+#               MLM Track                 #
+#                                         #
+#           By Timothy Baldock            #
+#                                         #
+###########################################
+#
+#Elevated MLM (Round Points)
+#
+Obj=way
+Name=MLM-EL_Track
+copyright=Timothy Baldock
+waytype=monorail_track
+system_type=1
+cost=95000
+maintenance=5000
+topspeed=300
+max_weight=200
+intro_year=2010
+intro_month=5
+cursor=/images/MLM-128.7.4
+icon=>/images/MLM-128.6.4
+# rbis * animation
+Image[-]=/images/MLM-128.0.0
+Image[N]=/images/MLM-128.1.0
+Image[S]=/images/MLM-128.1.1
+Image[E]=/images/MLM-128.1.2
+Image[W]=/images/MLM-128.1.3
+Image[NS]=/images/MLM-128.0.1
+Image[EW]=/images/MLM-128.0.2
+Image[NSE]=/images/MLM-128.2.0
+Image[NSW]=/images/MLM-128.2.1
+Image[NEW]=/images/MLM-128.2.2
+Image[SEW]=/images/MLM-128.2.3
+Image[NSEW]=/images/MLM-128.0.3
+Image[NE]=/images/MLM-128.3.0
+Image[SE]=/images/MLM-128.3.1
+Image[NW]=/images/MLM-128.3.2
+Image[SW]=/images/MLM-128.3.3
+Diagonal[NE]=/images/MLM-128.4.0
+Diagonal[SE]=/images/MLM-128.4.1
+Diagonal[NW]=/images/MLM-128.4.2
+Diagonal[SW]=/images/MLM-128.4.3
+hangtyp * animation
+ImageUp[3]=/images/MLM-128.5.0
+ImageUp[6]=/images/MLM-128.5.1
+ImageUp[9]=/images/MLM-128.5.2
+ImageUp[12]=/images/MLM-128.5.3
+------------------------
+#
+#Elevated MLM (Angle Points)
+#
+Obj=way
+Name=MLM-EL_Track_Angle
+copyright=Timothy Baldock
+waytype=monorail_track
+system_type=1
+cost=95000
+maintenance=5000
+topspeed=300
+max_weight=200
+intro_year=2010
+intro_month=5
+cursor=/images/MLM-128.7.5
+icon=>/images/MLM-128.6.5
+# rbis * animation
+Image[-]=/images/MLM-128.0.0
+Image[N]=/images/MLM-128.1.0
+Image[S]=/images/MLM-128.1.1
+Image[E]=/images/MLM-128.1.2
+Image[W]=/images/MLM-128.1.3
+Image[NS]=/images/MLM-128.0.1
+Image[EW]=/images/MLM-128.0.2
+Image[NSE]=/images/MLM-128.4.8
+Image[NSW]=/images/MLM-128.4.9
+Image[NEW]=/images/MLM-128.4.10
+Image[SEW]=/images/MLM-128.4.11
+Image[NSEW]=/images/MLM-128.0.9
+Image[NE]=/images/MLM-128.4.0
+Image[SE]=/images/MLM-128.4.1
+Image[NW]=/images/MLM-128.4.2
+Image[SW]=/images/MLM-128.4.3
+#Diagonal[NE]=
+#Diagonal[SE]=
+#Diagonal[NW]=
+#Diagonal[SW]=
+#hangtyp * animation
+ImageUp[3]=/images/MLM-128.5.0
+ImageUp[6]=/images/MLM-128.5.1
+ImageUp[9]=/images/MLM-128.5.2
+ImageUp[12]=/images/MLM-128.5.3
+------------------------
+#
+#Elevated MLM (Special Points North-East)
+#
+Obj=way
+Name=MLM-EL_Track_Special_NE
+copyright=Timothy Baldock
+waytype=monorail_track
+system_type=1
+cost=95000
+maintenance=5000
+topspeed=300
+max_weight=200
+intro_year=2010
+intro_month=5
+cursor=/images/MLM-128.9.4
+icon=>/images/MLM-128.8.4
+# rbis * animation
+Image[-]=/images/MLM-128.0.0
+Image[N]=/images/MLM-128.1.0
+Image[S]=/images/MLM-128.1.1
+Image[E]=/images/MLM-128.1.2
+Image[W]=/images/MLM-128.1.3
+Image[NS]=/images/MLM-128.0.1
+Image[EW]=/images/MLM-128.0.2
+Image[NSE]=/images/MLM-128.5.8
+Image[NSW]=/images/MLM-128.6.9
+Image[NEW]=/images/MLM-128.5.10
+Image[SEW]=/images/MLM-128.6.11
+Image[NSEW]=/images/MLM-128.0.9
+Image[NE]=/images/MLM-128.4.0
+Image[SE]=/images/MLM-128.4.1
+Image[NW]=/images/MLM-128.4.2
+Image[SW]=/images/MLM-128.4.3
+#Diagonal[NE]=
+#Diagonal[SE]=
+#Diagonal[NW]=
+#Diagonal[SW]=
+#hangtyp * animation
+ImageUp[3]=/images/MLM-128.5.0
+ImageUp[6]=/images/MLM-128.5.1
+ImageUp[9]=/images/MLM-128.5.2
+ImageUp[12]=/images/MLM-128.5.3
+------------------------
+#
+#Elevated MLM (Special Points South-West)
+#
+Obj=way
+Name=MLM-EL_Track_Special_SW
+copyright=Timothy Baldock
+waytype=monorail_track
+system_type=1
+cost=95000
+maintenance=5000
+topspeed=300
+max_weight=200
+intro_year=2010
+intro_month=5
+cursor=/images/MLM-128.9.5
+icon=>/images/MLM-128.8.5
+# rbis * animation
+Image[-]=/images/MLM-128.0.0
+Image[N]=/images/MLM-128.1.0
+Image[S]=/images/MLM-128.1.1
+Image[E]=/images/MLM-128.1.2
+Image[W]=/images/MLM-128.1.3
+Image[NS]=/images/MLM-128.0.1
+Image[EW]=/images/MLM-128.0.2
+Image[NSE]=/images/MLM-128.6.8
+Image[NSW]=/images/MLM-128.5.9
+Image[NEW]=/images/MLM-128.6.10
+Image[SEW]=/images/MLM-128.5.11
+Image[NSEW]=/images/MLM-128.0.9
+Image[NE]=/images/MLM-128.4.0
+Image[SE]=/images/MLM-128.4.1
+Image[NW]=/images/MLM-128.4.2
+Image[SW]=/images/MLM-128.4.3
+#Diagonal[NE]=
+#Diagonal[SE]=
+#Diagonal[NW]=
+#Diagonal[SW]=
+#hangtyp * animation
+ImageUp[3]=/images/MLM-128.5.0
+ImageUp[6]=/images/MLM-128.5.1
+ImageUp[9]=/images/MLM-128.5.2
+ImageUp[12]=/images/MLM-128.5.3
+------------------------
+#
+#Ground level MLM (Round Points)
+#
+Obj=way
+Name=MLM_Track_Normal
+copyright=Timothy Baldock
+waytype=monorail_track
+system_type=0	
+cost=80000
+maintenance=5000
+topspeed=600
+max_weight=200
+intro_year=2010
+intro_month=5
+cursor=/images/MLM-128.7.6
+icon=>/images/MLM-128.6.6
+# rbis * animation
+Image[-]=/images/MLM-128.0.4
+Image[N]=/images/MLM-128.1.4
+Image[S]=/images/MLM-128.1.5
+Image[E]=/images/MLM-128.1.6
+Image[W]=/images/MLM-128.1.7
+Image[NS]=/images/MLM-128.0.5
+Image[EW]=/images/MLM-128.0.6
+Image[NSE]=/images/MLM-128.2.4
+Image[NSW]=/images/MLM-128.2.5
+Image[NEW]=/images/MLM-128.2.6
+Image[SEW]=/images/MLM-128.2.7
+Image[NSEW]=/images/MLM-128.0.7
+Image[NE]=/images/MLM-128.3.4
+Image[SE]=/images/MLM-128.3.5
+Image[NW]=/images/MLM-128.3.6
+Image[SW]=/images/MLM-128.3.7
+Diagonal[NE]=/images/MLM-128.4.4
+Diagonal[SE]=/images/MLM-128.4.5
+Diagonal[NW]=/images/MLM-128.4.6
+Diagonal[SW]=/images/MLM-128.4.7
+# hangtyp * animation
+ImageUp[3]=/images/MLM-128.5.4
+ImageUp[6]=/images/MLM-128.5.5
+ImageUp[9]=/images/MLM-128.5.6
+ImageUp[12]=/images/MLM-128.5.7
+------------------------
+#
+#Ground level MLM (Angle Points)
+#
+Obj=way
+Name=MLM_Track_Angle
+copyright=Timothy Baldock
+waytype=monorail_track
+system_type=0	
+cost=80000
+maintenance=5000
+topspeed=600
+max_weight=200
+intro_year=2010
+intro_month=5
+cursor=/images/MLM-128.7.7
+icon=>/images/MLM-128.6.7
+# rbis * animation
+Image[-]=/images/MLM-128.0.4
+Image[N]=/images/MLM-128.1.4
+Image[S]=/images/MLM-128.1.5
+Image[E]=/images/MLM-128.1.6
+Image[W]=/images/MLM-128.1.7
+Image[NS]=/images/MLM-128.0.5
+Image[EW]=/images/MLM-128.0.6
+Image[NSE]=/images/MLM-128.1.8
+Image[NSW]=/images/MLM-128.1.9
+Image[NEW]=/images/MLM-128.1.10
+Image[SEW]=/images/MLM-128.1.11
+Image[NSEW]=/images/MLM-128.0.8
+Image[NE]=/images/MLM-128.4.4
+Image[SE]=/images/MLM-128.4.5
+Image[NW]=/images/MLM-128.4.6
+Image[SW]=/images/MLM-128.4.7
+#Diagonal[NE]=/images/MLM-128.4.4
+#Diagonal[SE]=/images/MLM-128.4.5
+#Diagonal[NW]=/images/MLM-128.4.6
+#Diagonal[SW]=/images/MLM-128.4.7
+# hangtyp * animation
+ImageUp[3]=/images/MLM-128.5.4
+ImageUp[6]=/images/MLM-128.5.5
+ImageUp[9]=/images/MLM-128.5.6
+ImageUp[12]=/images/MLM-128.5.7
+------------------------
+#
+#Ground level MLM (Special Points North-East)
+#
+Obj=way
+Name=MLM_Track_Special_NE
+copyright=Timothy Baldock
+waytype=monorail_track
+system_type=0	
+cost=80000
+maintenance=5000
+topspeed=600
+max_weight=200
+intro_year=2010
+intro_month=5
+cursor=/images/MLM-128.9.6
+icon=>/images/MLM-128.8.6
+# rbis * animation
+Image[-]=/images/MLM-128.0.4
+Image[N]=/images/MLM-128.1.4
+Image[S]=/images/MLM-128.1.5
+Image[E]=/images/MLM-128.1.6
+Image[W]=/images/MLM-128.1.7
+Image[NS]=/images/MLM-128.0.5
+Image[EW]=/images/MLM-128.0.6
+Image[NSE]=/images/MLM-128.2.8
+Image[NSW]=/images/MLM-128.3.9
+Image[NEW]=/images/MLM-128.2.10
+Image[SEW]=/images/MLM-128.3.11
+Image[NSEW]=/images/MLM-128.0.8
+Image[NE]=/images/MLM-128.4.4
+Image[SE]=/images/MLM-128.4.5
+Image[NW]=/images/MLM-128.4.6
+Image[SW]=/images/MLM-128.4.7
+#Diagonal[NE]=/images/MLM-128.4.4
+#Diagonal[SE]=/images/MLM-128.4.5
+#Diagonal[NW]=/images/MLM-128.4.6
+#Diagonal[SW]=/images/MLM-128.4.7
+# hangtyp * animation
+ImageUp[3]=/images/MLM-128.5.4
+ImageUp[6]=/images/MLM-128.5.5
+ImageUp[9]=/images/MLM-128.5.6
+ImageUp[12]=/images/MLM-128.5.7
+------------------------
+#
+#Ground level MLM (Special Points South-West)
+#
+Obj=way
+Name=MLM_Track_Special_SW
+copyright=Timothy Baldock
+waytype=monorail_track
+system_type=0	
+cost=80000
+maintenance=5000
+topspeed=600
+max_weight=200
+intro_year=2010
+intro_month=5
+cursor=/images/MLM-128.9.7
+icon=>/images/MLM-128.8.7
+# rbis * animation
+Image[-]=/images/MLM-128.0.4
+Image[N]=/images/MLM-128.1.4
+Image[S]=/images/MLM-128.1.5
+Image[E]=/images/MLM-128.1.6
+Image[W]=/images/MLM-128.1.7
+Image[NS]=/images/MLM-128.0.5
+Image[EW]=/images/MLM-128.0.6
+Image[NSE]=/images/MLM-128.3.8
+Image[NSW]=/images/MLM-128.2.9
+Image[NEW]=/images/MLM-128.3.10
+Image[SEW]=/images/MLM-128.2.11
+Image[NSEW]=/images/MLM-128.0.8
+Image[NE]=/images/MLM-128.4.4
+Image[SE]=/images/MLM-128.4.5
+Image[NW]=/images/MLM-128.4.6
+Image[SW]=/images/MLM-128.4.7
+#Diagonal[NE]=/images/MLM-128.4.4
+#Diagonal[SE]=/images/MLM-128.4.5
+#Diagonal[NW]=/images/MLM-128.4.6
+#Diagonal[SW]=/images/MLM-128.4.7
+# hangtyp * animation
+ImageUp[3]=/images/MLM-128.5.4
+ImageUp[6]=/images/MLM-128.5.5
+ImageUp[9]=/images/MLM-128.5.6
+ImageUp[12]=/images/MLM-128.5.7
+------------------------
+#
+#Ground/Elevated connection bridge
+#
+Obj=bridge
+name=MLM_ConnectionBridge
+copyright=Timothy Baldock
+waytype=monorail_track
+cost=10000
+maintenance=7000
+topspeed=600
+max_weight=200
+max_lenght=1
+intro_year=2010
+cursor=/images/MLM-128.9.9
+icon=> /images/MLM-128.8.9
+pillar_distance=1
+BackImage[NS]=/images/MLM-128.0.1
+FrontImage[NS]=-
+BackImage[EW]=/images/MLM-128.0.2
+FrontImage[EW]=-
+BackRamp[N]=/images/MLM-128.6.3
+FrontRamp[N]=-
+BackRamp[W]=/images/MLM-128.6.2
+FrontRamp[W]=-
+BackRamp[S]=/images/MLM-128.6.0
+FrontRamp[S]=-
+BackRamp[E]=/images/MLM-128.6.1
+FrontRamp[E]=-
+BackStart[N]=/images/MLM-128.7.3
+FrontStart[N]=-
+BackStart[S]=/images/MLM-128.7.0
+FrontStart[S]=-
+BackStart[E]=/images/MLM-128.7.1
+FrontStart[E]=-
+BackStart[W]=/images/MLM-128.7.2
+FrontStart[W]=-
+backPillar[S]=-
+backPillar[W]=-
+---------------------------------------
+#
+#MLM Bridge
+#
+Obj=bridge
+name=MLM_Bridge
+copyright=Timothy Baldock
+waytype=monorail_track
+cost=10000
+maintenance=7000
+topspeed=600
+max_weight=200
+max_lenght=8
+intro_year=2010
+cursor=/images/MLM-128.9.8
+icon=> /images/MLM-128.8.8
+pillar_distance=1
+BackImage[NS]=/images/MLM-128.4.12
+FrontImage[NS]=-
+BackImage[EW]=/images/MLM-128.4.13
+FrontImage[EW]=-
+BackRamp[N]=/images/MLM-128.0.15
+FrontRamp[N]=-
+BackRamp[W]=/images/MLM-128.0.14
+FrontRamp[W]=-
+BackRamp[S]=/images/MLM-128.0.12
+FrontRamp[S]=-
+BackRamp[E]=/images/MLM-128.0.13
+FrontRamp[E]=-
+BackStart[N]=/images/MLM-128.3.15
+FrontStart[N]=-
+BackStart[S]=/images/MLM-128.3.12
+FrontStart[S]=-
+BackStart[E]=/images/MLM-128.3.13
+FrontStart[E]=-
+BackStart[W]=/images/MLM-128.3.14
+FrontStart[W]=-
+backPillar[S]=-
+backPillar[W]=-
+---------------------------------------

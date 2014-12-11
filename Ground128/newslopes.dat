@@ -1,0 +1,47 @@
+--------------------
+Obj=ground
+Name=Basement
+# West
+Image[0][0]=-
+Image[1][0]=newfoundation.0.0
+Image[2][0]=-
+Image[3][0]=newfoundation.0.1
+Image[4][0]=newfoundation.0.2
+Image[5][0]=newfoundation.0.3
+Image[6][0]=-
+Image[7][0]=newfoundation.0.4
+Image[8][0]=newfoundation.0.7
+# North
+Image[9][0]=-
+Image[10][0]=newfoundation.1.0
+Image[11][0]=-
+Image[12][0]=newfoundation.1.1
+Image[13][0]=newfoundation.1.2
+Image[14][0]=newfoundation.1.3
+Image[15][0]=-
+Image[16][0]=newfoundation.1.4
+Image[17][0]=newfoundation.1.7
+--------------------
+Obj=ground
+Name=Slopes
+# West
+Image[0][0]=-
+Image[1][0]=newslopes.0.0
+Image[2][0]=-
+Image[3][0]=newslopes.0.1
+Image[4][0]=newslopes.0.2
+Image[5][0]=newslopes.0.3
+Image[6][0]=-
+Image[7][0]=newslopes.0.4
+Image[8][0]=newslopes.0.7
+# North
+Image[9][0]=-
+Image[10][0]=newslopes.1.0
+Image[11][0]=-
+Image[12][0]=newslopes.1.1
+Image[13][0]=newslopes.1.2
+Image[14][0]=newslopes.1.3
+Image[15][0]=-
+Image[16][0]=newslopes.1.4
+Image[17][0]=newslopes.1.7
+--------------------

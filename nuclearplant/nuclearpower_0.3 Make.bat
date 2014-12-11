@@ -1,0 +1,1 @@
+..\makeobj pak ./nuclearpower_0.3.pak ./nuclearpower.dat >err.txt

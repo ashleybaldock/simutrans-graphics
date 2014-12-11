@@ -1,0 +1,54 @@
+#
+# Simple Rail Tunnel - Wooden Sleepers track
+#
+Obj=tunnel
+Name=Simple_Rail_Tunnel_Wood
+Copyright=Timothy Baldock
+waytype=track
+cost=20000
+maintenance=1300
+topspeed=120
+max_weight=100
+intro_year=1900
+intro_month=1
+retire_year=2000
+retire_month=1
+#
+FrontImage[N]=/images/tunnels.2.0
+BackImage[N]=/images/tunnels.3.0
+FrontImage[S]=/images/tunnels.2.2
+BackImage[S]=-
+FrontImage[E]=/images/tunnels.2.3
+BackImage[E]=-
+FrontImage[W]=/images/tunnels.2.1
+BackImage[W]=/images/tunnels.3.1
+icon=> /images/tunnels.3.3
+cursor=/images/tunnels.3.2
+---------------------------------------
+#
+# Simple Rail Tunnel - Sand track
+#
+Obj=tunnel
+Name=Simple_Rail_Tunnel_Sand
+Copyright=Timothy Baldock
+waytype=track
+cost=20000
+maintenance=1300
+topspeed=120
+max_weight=100
+intro_year=1900
+intro_month=1
+retire_year=2000
+retire_month=1
+#
+FrontImage[N]=/images/tunnels.2.0
+BackImage[N]=/images/tunnels.4.0
+FrontImage[S]=/images/tunnels.2.2
+BackImage[S]=-
+FrontImage[E]=/images/tunnels.2.3
+BackImage[E]=-
+FrontImage[W]=/images/tunnels.2.1
+BackImage[W]=/images/tunnels.4.1
+icon=> /images/tunnels.4.3
+cursor=/images/tunnels.4.2
+---------------------------------------

@@ -1,0 +1,9 @@
+Obj=tree
+Name=MarsTree1
+#Image[Age][Height]
+Height=0
+Image[0][0]=/images/trees.0.0
+Image[1][0]=/images/trees.0.1
+Image[2][0]=/images/trees.0.2
+Image[3][0]=/images/trees.0.3
+Image[4][0]=/images/trees.0.4

@@ -1,0 +1,203 @@
+Obj=building
+Name=LT_Station1_red_1standard
+type=station
+copyright=Timothy Baldock
+enables_pax=1
+enables_post=0
+enables_ware=0
+NoInfo=1
+NoConstruction=1
+Dims=1,1,16
+Level=4
+intro_year=1903
+intro_month=1
+icon=>/images/station1-red.1.8
+cursor=/images/station1-red.0.8
+# New image array
+# First two are far-side middle (left/right)
+BackImage[0][0][0][0][0]=/images/station1-red.0.0
+BackImage[1][0][0][0][0]=/images/station1-red.0.1
+# Then far-side near
+BackImage[2][0][0][0][0]=/images/station1-red.0.4
+BackImage[3][0][0][0][0]=/images/station1-red.0.5
+# Then far-side far
+BackImage[4][0][0][0][0]=/images/station1-red.2.4
+BackImage[5][0][0][0][0]=/images/station1-red.2.5
+# Then far-side single-segment
+BackImage[6][0][0][0][0]=/images/station1-red.2.0
+BackImage[7][0][0][0][0]=/images/station1-red.2.1
+# And near-side
+# Then near-side middle (left/right)
+BackImage[8][0][0][0][0]=/images/station1-red.0.2
+BackImage[9][0][0][0][0]=/images/station1-red.0.3
+# Then near-side near
+BackImage[10][0][0][0][0]=/images/station1-red.0.6
+BackImage[11][0][0][0][0]=/images/station1-red.0.7
+# Then near-side far
+BackImage[12][0][0][0][0]=/images/station1-red.2.6
+BackImage[13][0][0][0][0]=/images/station1-red.2.7
+# Then near-side single-segment
+BackImage[14][0][0][0][0]=/images/station1-red.2.2
+BackImage[15][0][0][0][0]=/images/station1-red.2.3
+# Then the front images...
+# First two are far-side middle (left/right)
+FrontImage[0][0][0][0][0]=/images/station1-red.1.0
+FrontImage[1][0][0][0][0]=/images/station1-red.1.1
+# Then far-side near
+FrontImage[2][0][0][0][0]=/images/station1-red.1.4
+FrontImage[3][0][0][0][0]=/images/station1-red.1.5
+# Then far-side far
+FrontImage[4][0][0][0][0]=/images/station1-red.3.4
+FrontImage[5][0][0][0][0]=/images/station1-red.3.5
+# Then far-side single-segment
+FrontImage[6][0][0][0][0]=/images/station1-red.3.0
+FrontImage[7][0][0][0][0]=/images/station1-red.3.1
+# And near-side
+# Then near-side middle (left/right)
+FrontImage[8][0][0][0][0]=/images/station1-red.1.2
+FrontImage[9][0][0][0][0]=/images/station1-red.1.3
+# Then near-side near
+FrontImage[10][0][0][0][0]=/images/station1-red.1.6
+FrontImage[11][0][0][0][0]=/images/station1-red.1.7
+# Then near-side far
+FrontImage[12][0][0][0][0]=/images/station1-red.3.6
+FrontImage[13][0][0][0][0]=/images/station1-red.3.7
+# Then near-side single-segment
+FrontImage[14][0][0][0][0]=/images/station1-red.3.2
+FrontImage[15][0][0][0][0]=/images/station1-red.3.3
+------------------
+Obj=building
+Name=LT_Station1_red_2overpass
+type=station
+copyright=Timothy Baldock
+enables_pax=1
+enables_post=0
+enables_ware=0
+NoInfo=1
+NoConstruction=1
+Dims=1,1,16
+Level=4
+intro_year=1903
+intro_month=1
+icon=>/images/station1-red.5.8
+cursor=/images/station1-red.4.8
+# New image array
+# First two are far-side middle (left/right)
+BackImage[0][0][0][0][0]=/images/station1-red.4.0
+BackImage[1][0][0][0][0]=/images/station1-red.4.1
+# Then far-side near
+BackImage[2][0][0][0][0]=/images/station1-red.4.4
+BackImage[3][0][0][0][0]=/images/station1-red.4.5
+# Then far-side far
+BackImage[4][0][0][0][0]=/images/station1-red.6.4
+BackImage[5][0][0][0][0]=/images/station1-red.6.5
+# Then far-side single-segment
+BackImage[6][0][0][0][0]=/images/station1-red.6.0
+BackImage[7][0][0][0][0]=/images/station1-red.6.1
+# And near-side
+# Then near-side middle (left/right)
+BackImage[8][0][0][0][0]=/images/station1-red.4.2
+BackImage[9][0][0][0][0]=/images/station1-red.4.3
+# Then near-side near
+BackImage[10][0][0][0][0]=/images/station1-red.4.6
+BackImage[11][0][0][0][0]=/images/station1-red.4.7
+# Then near-side far
+BackImage[12][0][0][0][0]=/images/station1-red.6.6
+BackImage[13][0][0][0][0]=/images/station1-red.6.7
+# Then near-side single-segment
+BackImage[14][0][0][0][0]=/images/station1-red.6.2
+BackImage[15][0][0][0][0]=/images/station1-red.6.3
+# Then the front images...
+# First two are far-side middle (left/right)
+FrontImage[0][0][0][0][0]=/images/station1-red.5.0
+FrontImage[1][0][0][0][0]=/images/station1-red.5.1
+# Then far-side near
+FrontImage[2][0][0][0][0]=/images/station1-red.5.4
+FrontImage[3][0][0][0][0]=/images/station1-red.5.5
+# Then far-side far
+FrontImage[4][0][0][0][0]=/images/station1-red.7.4
+FrontImage[5][0][0][0][0]=/images/station1-red.7.5
+# Then far-side single-segment
+FrontImage[6][0][0][0][0]=/images/station1-red.7.0
+FrontImage[7][0][0][0][0]=/images/station1-red.7.1
+# And near-side
+# Then near-side middle (left/right)
+FrontImage[8][0][0][0][0]=/images/station1-red.5.2
+FrontImage[9][0][0][0][0]=/images/station1-red.5.3
+# Then near-side near
+FrontImage[10][0][0][0][0]=/images/station1-red.5.6
+FrontImage[11][0][0][0][0]=/images/station1-red.5.7
+# Then near-side far
+FrontImage[12][0][0][0][0]=/images/station1-red.7.6
+FrontImage[13][0][0][0][0]=/images/station1-red.7.7
+# Then near-side single-segment
+FrontImage[14][0][0][0][0]=/images/station1-red.7.2
+FrontImage[15][0][0][0][0]=/images/station1-red.7.3
+------------------
+Obj=building
+Name=LT_Station1_red_3levelpass
+type=station
+copyright=Timothy Baldock
+enables_pax=1
+enables_post=0
+enables_ware=0
+NoInfo=1
+NoConstruction=1
+Dims=1,1,16
+Level=4
+intro_year=1903
+intro_month=1
+icon=>/images/station1-red.9.8
+cursor=/images/station1-red.8.8
+# New image array
+# First two are far-side middle (left/right)
+BackImage[0][0][0][0][0]=/images/station1-red.8.0
+BackImage[1][0][0][0][0]=/images/station1-red.8.1
+# Then far-side near
+BackImage[2][0][0][0][0]=/images/station1-red.8.4
+BackImage[3][0][0][0][0]=/images/station1-red.8.5
+# Then far-side far
+BackImage[4][0][0][0][0]=/images/station1-red.10.4
+BackImage[5][0][0][0][0]=/images/station1-red.10.5
+# Then far-side single-segment
+BackImage[6][0][0][0][0]=/images/station1-red.10.0
+BackImage[7][0][0][0][0]=/images/station1-red.10.1
+# And near-side
+# Then near-side middle (left/right)
+BackImage[8][0][0][0][0]=/images/station1-red.8.2
+BackImage[9][0][0][0][0]=/images/station1-red.8.3
+# Then near-side near
+BackImage[10][0][0][0][0]=/images/station1-red.8.6
+BackImage[11][0][0][0][0]=/images/station1-red.8.7
+# Then near-side far
+BackImage[12][0][0][0][0]=/images/station1-red.10.6
+BackImage[13][0][0][0][0]=/images/station1-red.10.7
+# Then near-side single-segment
+BackImage[14][0][0][0][0]=/images/station1-red.10.2
+BackImage[15][0][0][0][0]=/images/station1-red.10.3
+# Then the front images...
+# First two are far-side middle (left/right)
+FrontImage[0][0][0][0][0]=/images/station1-red.9.0
+FrontImage[1][0][0][0][0]=/images/station1-red.9.1
+# Then far-side near
+FrontImage[2][0][0][0][0]=/images/station1-red.9.4
+FrontImage[3][0][0][0][0]=/images/station1-red.9.5
+# Then far-side far
+FrontImage[4][0][0][0][0]=/images/station1-red.11.4
+FrontImage[5][0][0][0][0]=/images/station1-red.11.5
+# Then far-side single-segment
+FrontImage[6][0][0][0][0]=/images/station1-red.11.0
+FrontImage[7][0][0][0][0]=/images/station1-red.11.1
+# And near-side
+# Then near-side middle (left/right)
+FrontImage[8][0][0][0][0]=/images/station1-red.9.2
+FrontImage[9][0][0][0][0]=/images/station1-red.9.3
+# Then near-side near
+FrontImage[10][0][0][0][0]=/images/station1-red.9.6
+FrontImage[11][0][0][0][0]=/images/station1-red.9.7
+# Then near-side far
+FrontImage[12][0][0][0][0]=/images/station1-red.11.6
+FrontImage[13][0][0][0][0]=/images/station1-red.11.7
+# Then near-side single-segment
+FrontImage[14][0][0][0][0]=/images/station1-red.11.2
+FrontImage[15][0][0][0][0]=/images/station1-red.11.3

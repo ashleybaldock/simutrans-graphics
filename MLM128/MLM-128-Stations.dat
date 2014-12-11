@@ -1,0 +1,36 @@
+Obj=building
+Name=MLM-Station_EL_Top
+copyright=Timothy Baldock
+Type=monorailstop
+# must be 1*1
+Dims=1,1,2
+waytype=monorail_track
+NoInfo=1
+menupos=1
+enables_pax=1
+NoConstruction=1
+cursor=/images/MLM-128.7.4
+icon=> /images/MLM-128.6.4
+BackImage[0][0][0][0][0]=/images/MLM-128.3.12
+BackImage[1][0][0][0][0]=/images/MLM-128.3.14
+FrontImage[0][0][0][0][0]=/images/MLM-128.2.12
+FrontImage[1][0][0][0][0]=/images/MLM-128.2.14
+--------------------
+Obj=building
+Name=MLM-Station_EL_Bottom
+copyright=Timothy Baldock
+Type=monorailstop
+# must be 1*1
+Dims=1,1,2
+waytype=monorail_track
+NoInfo=1
+menupos=1
+enables_pax=1
+NoConstruction=1
+cursor=/images/MLM-128.7.4
+icon=> /images/MLM-128.6.4
+BackImage[0][0][0][0][0]=/images/MLM-128.3.13
+BackImage[1][0][0][0][0]=/images/MLM-128.3.15
+FrontImage[0][0][0][0][0]=/images/MLM-128.2.13
+FrontImage[1][0][0][0][0]=/images/MLM-128.2.15
+--------------------

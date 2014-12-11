@@ -1,0 +1,17 @@
+Obj=building
+Name=Streetlight
+# must be 1*1
+copyright=Timothy Baldock
+type=busstop
+level=0
+NoInfo=1
+Dims=1,1,2
+intro_year=1950
+intro_month=1
+BackImage[0][0][0][0][0]=/images/streetlights.0.0
+FrontImage[0][0][0][0][0]=/images/streetlights.1.0
+BackImage[1][0][0][0][0]=/images/streetlights.0.1
+FrontImage[1][0][0][0][0]=/images/streetlights.1.1
+icon=> /images/streetlights.1.2
+cursor=/images/streetlights.1.3
+-----------

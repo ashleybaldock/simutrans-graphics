@@ -1,0 +1,252 @@
+#
+# Improved Ground
+#
+# Ground tiles used in Spring
+Obj=ground
+Name=Gras
+# hangtyp * animation
+Image[0][0]=/images/ground.0.14
+Image[1][0]=/images/ground.0.6
+Image[2][0]=/images/ground.0.7
+Image[3][0]=/images/ground.0.2
+Image[4][0]=/images/ground.0.4
+Image[5][0]=/images/ground.0.11
+Image[6][0]=/images/ground.0.3
+Image[7][0]=/images/ground.0.12
+Image[8][0]=/images/ground.0.5
+Image[9][0]=/images/ground.0.1
+Image[10][0]=/images/ground.0.13
+Image[11][0]=/images/ground.0.10
+Image[12][0]=/images/ground.0.0
+Image[13][0]=/images/ground.0.8
+Image[14][0]=/images/ground.0.9
+# 4 special (variant) ground tiles
+Image[15][0]=/images/ground.2.0
+Image[16][0]=/images/ground.2.1
+Image[17][0]=/images/ground.2.2
+Image[18][0]=/images/ground.2.3
+# Gridded ground
+Image[19][0]=/images/ground.1.14
+Image[20][0]=/images/ground.1.6
+Image[21][0]=/images/ground.1.7
+Image[22][0]=/images/ground.1.2
+Image[23][0]=/images/ground.1.4
+Image[24][0]=/images/ground.1.11
+Image[25][0]=/images/ground.1.3
+Image[26][0]=/images/ground.1.12
+Image[27][0]=/images/ground.1.5
+Image[28][0]=/images/ground.1.1
+Image[29][0]=/images/ground.1.13
+Image[30][0]=/images/ground.1.10
+Image[31][0]=/images/ground.1.0
+Image[32][0]=/images/ground.1.8
+Image[33][0]=/images/ground.1.9
+# 4 special (variant) ground tiles
+Image[34][0]=/images/ground.3.0
+Image[35][0]=/images/ground.3.1
+Image[36][0]=/images/ground.3.2
+Image[37][0]=/images/ground.3.3
+--------------------
+# Ground tiles used in Winter
+Obj=ground
+Name=WinterGras
+# hangtyp * animation
+Image[0][0]=/images/ground.8.14
+Image[1][0]=/images/ground.8.6
+Image[2][0]=/images/ground.8.7
+Image[3][0]=/images/ground.8.2
+Image[4][0]=/images/ground.8.4
+Image[5][0]=/images/ground.8.11
+Image[6][0]=/images/ground.8.3
+Image[7][0]=/images/ground.8.12
+Image[8][0]=/images/ground.8.5
+Image[9][0]=/images/ground.8.1
+Image[10][0]=/images/ground.8.13
+Image[11][0]=/images/ground.8.10
+Image[12][0]=/images/ground.8.0
+Image[13][0]=/images/ground.8.8
+Image[14][0]=/images/ground.8.9
+# 4 special (variant) ground tiles
+Image[15][0]=/images/ground.10.0
+Image[16][0]=/images/ground.10.1
+Image[17][0]=/images/ground.10.2
+Image[18][0]=/images/ground.10.3
+# Gridded ground
+Image[19][0]=/images/ground.9.14
+Image[20][0]=/images/ground.9.6
+Image[21][0]=/images/ground.9.7
+Image[22][0]=/images/ground.9.2
+Image[23][0]=/images/ground.9.4
+Image[24][0]=/images/ground.9.11
+Image[25][0]=/images/ground.9.3
+Image[26][0]=/images/ground.9.12
+Image[27][0]=/images/ground.9.5
+Image[28][0]=/images/ground.9.1
+Image[29][0]=/images/ground.9.13
+Image[30][0]=/images/ground.9.10
+Image[31][0]=/images/ground.9.0
+Image[32][0]=/images/ground.9.8
+Image[33][0]=/images/ground.9.9
+# 4 special (variant) ground tiles
+Image[34][0]=/images/ground.11.0
+Image[35][0]=/images/ground.11.1
+Image[36][0]=/images/ground.11.2
+Image[37][0]=/images/ground.11.3
+--------------------
+# Different types of water
+Obj=ground
+Name=Water
+# hangtyp * animation
+Image[0][0]=/images/ground.6.0
+#Image[0][1]=/images/ground.6.1
+#Image[0][2]=/images/ground.6.2
+#Image[0][3]=/images/ground.6.3
+# Gridded water
+Image[0][4]=/images/ground.7.0
+#Image[0][5]=/images/ground.7.1
+#Image[0][6]=/images/ground.7.2
+#Image[0][7]=/images/ground.7.3
+--------------------
+# Outside the map area
+Obj=ground
+Name=Outside
+# hangtyp * animation
+Image[0][0]=/images/ground.6.5
+--------------------
+# Strange order, but fits with standard slope tiles
+# Shorelines used in Spring/Summer/Autumn
+Obj=ground
+Name=Shore
+# hangtyp * animation
+Image[0][0]=/images/ground.4.14 # flat
+Image[1][0]=/images/ground.4.6 # northeast outer
+Image[2][0]=/images/ground.4.7 # northwest outer
+Image[3][0]=/images/ground.4.2 # north
+Image[4][0]=/images/ground.4.4 # southwest outer
+Image[5][0]=/images/ground.4.11 # EW fix piece
+Image[6][0]=/images/ground.4.3 # west
+Image[7][0]=/images/ground.4.12 # northwest inner
+Image[8][0]=/images/ground.4.5 # southeast outer
+Image[9][0]=/images/ground.4.1 # east
+Image[10][0]=/images/ground.4.13 # NS fix piece
+Image[11][0]=/images/ground.4.10 # northeast inner
+Image[12][0]=/images/ground.4.0 # south
+Image[13][0]=/images/ground.4.8 # southeast inner
+Image[14][0]=/images/ground.4.9 #southwest inner
+# Gridded Shorelines (not used?)
+Image[15][0]=/images/ground.5.14 # flat
+Image[16][0]=/images/ground.5.6 # northeast outer
+Image[17][0]=/images/ground.5.7 # northwest outer
+Image[18][0]=/images/ground.5.2 # north
+Image[19][0]=/images/ground.5.4 # southwest outer
+Image[20][0]=/images/ground.5.11 # EW fix piece
+Image[21][0]=/images/ground.5.3 # west
+Image[22][0]=/images/ground.5.12 # northwest inner
+Image[23][0]=/images/ground.5.5 # southeast outer
+Image[24][0]=/images/ground.5.1 # east
+Image[25][0]=/images/ground.5.13 # NS fix piece
+Image[26][0]=/images/ground.5.10 # northeast inner
+Image[27][0]=/images/ground.5.0 # south
+Image[28][0]=/images/ground.5.8 # southeast inner
+Image[29][0]=/images/ground.5.9 #southwest inner
+--------------------
+# Shorelines used in Winter
+Obj=ground
+Name=WinterShore
+# hangtyp * animation
+Image[0][0]=/images/ground.12.14 # flat
+Image[1][0]=/images/ground.12.6 # northeast outer
+Image[2][0]=/images/ground.12.7 # northwest outer
+Image[3][0]=/images/ground.12.2 # north
+Image[4][0]=/images/ground.12.4 # southwest outer
+Image[5][0]=/images/ground.12.11 # EW fix piece
+Image[6][0]=/images/ground.12.3 # west
+Image[7][0]=/images/ground.12.12 # northwest inner
+Image[8][0]=/images/ground.12.5 # southeast outer
+Image[9][0]=/images/ground.12.1 # east
+Image[10][0]=/images/ground.12.13 # NS fix piece
+Image[11][0]=/images/ground.12.10 # northeast inner
+Image[12][0]=/images/ground.12.0 # south
+Image[13][0]=/images/ground.12.8 # southeast inner
+Image[14][0]=/images/ground.12.9 #southwest inner
+# Gridded Shorelines (not used?)
+Image[0][0]=/images/ground.13.14 # flat
+Image[1][0]=/images/ground.13.6 # northeast outer
+Image[2][0]=/images/ground.13.7 # northwest outer
+Image[3][0]=/images/ground.13.2 # north
+Image[4][0]=/images/ground.13.4 # southwest outer
+Image[5][0]=/images/ground.13.11 # EW fix piece
+Image[6][0]=/images/ground.13.3 # west
+Image[7][0]=/images/ground.13.12 # northwest inner
+Image[8][0]=/images/ground.13.5 # southeast outer
+Image[9][0]=/images/ground.13.1 # east
+Image[10][0]=/images/ground.13.13 # NS fix piece
+Image[11][0]=/images/ground.13.10 # northeast inner
+Image[12][0]=/images/ground.13.0 # south
+Image[13][0]=/images/ground.13.8 # southeast inner
+Image[14][0]=/images/ground.13.9 #southwest inner
+--------------------
+Obj=ground
+Name=Slopes
+# West
+Image[0][0]=-
+Image[1][0]=/images/ground.2.6
+Image[2][0]=-
+Image[3][0]=/images/ground.2.7
+Image[4][0]=/images/ground.2.8
+Image[5][0]=/images/ground.2.9
+Image[6][0]=-
+Image[7][0]=/images/ground.2.10
+Image[8][0]=/images/ground.2.11
+Image[9][0]=-
+Image[10][0]=-
+# North
+Image[11][0]=-
+Image[12][0]=/images/ground.3.6
+Image[13][0]=-
+Image[14][0]=/images/ground.3.7
+Image[15][0]=/images/ground.3.8
+Image[16][0]=/images/ground.3.9
+Image[17][0]=-
+Image[18][0]=/images/ground.3.10
+Image[19][0]=/images/ground.3.11
+Image[20][0]=-
+Image[21][0]=-
+--------------------
+Obj=ground
+Name=Basement
+# West
+Image[0][0]=-
+Image[1][0]=/images/ground.6.6
+Image[2][0]=-
+Image[3][0]=/images/ground.6.7
+Image[4][0]=/images/ground.6.8
+Image[5][0]=/images/ground.6.9
+Image[6][0]=-
+Image[7][0]=/images/ground.6.10
+Image[8][0]=/images/ground.6.11
+Image[9][0]=-
+Image[10][0]=-
+# North
+Image[11][0]=-
+Image[12][0]=/images/ground.7.6
+Image[13][0]=-
+Image[14][0]=/images/ground.7.7
+Image[15][0]=/images/ground.7.8
+Image[16][0]=/images/ground.7.9
+Image[17][0]=-
+Image[18][0]=/images/ground.7.10
+Image[19][0]=/images/ground.7.11
+Image[20][0]=-
+Image[21][0]=-
+--------------------
+Obj=ground
+Name=Fence
+# Natural fence
+Image[0][0]=/images/ground.3.12
+Image[1][0]=/images/ground.3.13
+Image[2][0]=/images/ground.3.14
+# Town fence
+Image[3][0]=/images/ground.7.12
+Image[4][0]=/images/ground.7.13
+Image[5][0]=/images/ground.7.14

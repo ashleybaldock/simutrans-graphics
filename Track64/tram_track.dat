@@ -1,0 +1,39 @@
+# Tram track
+#
+Obj=way
+Name=Rillenschienen
+waytype=tram_track
+cost=10000
+maintenance=1000
+topspeed=90
+max_weight=180
+intro_year=1865
+intro_month=1
+cursor=/images/tram_track.6.1
+icon=>/images/tram_track.6.0
+# rbis * animation
+Image[-]=/images/tram_track.0.0
+Image[N]=/images/tram_track.1.0
+Image[S]=/images/tram_track.1.1
+Image[E]=/images/tram_track.1.2
+Image[W]=/images/tram_track.1.3
+Image[NS]=/images/tram_track.0.1
+Image[EW]=/images/tram_track.0.2
+Image[NSE]=/images/tram_track.2.0
+Image[NSW]=/images/tram_track.2.1
+Image[NEW]=/images/tram_track.2.2
+Image[SEW]=/images/tram_track.2.3
+Image[NSEW]=/images/tram_track.0.3
+Image[NE]=/images/tram_track.3.0
+Image[SE]=/images/tram_track.3.1
+Image[NW]=/images/tram_track.3.2
+Image[SW]=/images/tram_track.3.3
+Diagonal[NE]=/images/tram_track.4.0
+Diagonal[SE]=/images/tram_track.4.1
+Diagonal[NW]=/images/tram_track.4.2
+Diagonal[SW]=/images/tram_track.4.3
+# hangtyp * animation
+ImageUp[3]=/images/tram_track.5.0
+ImageUp[6]=/images/tram_track.5.1
+ImageUp[9]=/images/tram_track.5.2
+ImageUp[12]=/images/tram_track.5.3

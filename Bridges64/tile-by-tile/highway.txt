@@ -1,0 +1,51 @@
+# Elevated highway_tbt
+# http://simutrans.entropy.me.uk
+#
+# Base maintenance = 500
+# Base cost = 40000
+# Base length = 
+# Base weight = 110
+#
+Obj=bridge
+name=highway_tbt_asphaltroad
+copyright=Timothy Baldock
+waytype=track
+cost=50000
+maintenance=1300
+topspeed=130
+max_weight=110
+max_lenght=
+intro_year=1960
+intro_month=1
+retire_year=
+retire_month=
+pillar_distance=1
+#
+cursor=/images/highway_tbt.3.4
+icon=> /images/highway_tbt.3.5
+backPillar[S]=-
+backPillar[W]=-
+#
+BackImage[NS]=/images/highway_tbt.0.0
+FrontImage[NS]=/images/highway_tbt.1.0
+BackImage[EW]=/images/highway_tbt.0.1
+FrontImage[EW]=/images/highway_tbt.1.1
+#
+BackRamp[N]=/images/highway_tbt.0.5
+FrontRamp[N]=/images/highway_tbt.1.5
+BackRamp[W]=/images/highway_tbt.0.4
+FrontRamp[W]=/images/highway_tbt.1.4
+BackRamp[S]=/images/highway_tbt.0.2
+FrontRamp[S]=/images/highway_tbt.1.2
+BackRamp[E]=/images/highway_tbt.0.3
+FrontRamp[E]=/images/highway_tbt.1.3
+#
+BackStart[N]=/images/highway_tbt.2.3
+FrontStart[N]=/images/highway_tbt.3.3
+BackStart[S]=/images/highway_tbt.2.0
+FrontStart[S]=/images/highway_tbt.3.0
+BackStart[E]=/images/highway_tbt.2.1
+FrontStart[E]=/images/highway_tbt.3.1
+BackStart[W]=/images/highway_tbt.2.2
+FrontStart[W]=/images/highway_tbt.3.2
+----------------------------------------------

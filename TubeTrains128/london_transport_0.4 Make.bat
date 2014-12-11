@@ -1,0 +1,1 @@
+..\makeobj pak128 ./london_transport_0.4.pak ./ >err.txt

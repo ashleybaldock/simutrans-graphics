@@ -1,0 +1,51 @@
+# Elevated Highway
+# http://simutrans.entropy.me.uk
+#
+# Base maintenance = 500
+# Base cost = 40000
+# Base length = 
+# Base weight = 110
+#
+Obj=bridge
+name=highway_asphaltroad
+copyright=Timothy Baldock
+waytype=road
+cost=50000
+maintenance=1300
+topspeed=130
+max_weight=110
+max_lenght=
+intro_year=1960
+intro_month=1
+retire_year=
+retire_month=
+pillar_distance=1
+#
+cursor=/images/highway.3.4
+icon=> /images/highway.3.5
+backPillar[S]=/images/highway.2.4
+backPillar[W]=/images/highway.2.5
+#
+BackImage[NS]=/images/highway.0.0
+FrontImage[NS]=/images/highway.1.0
+BackImage[EW]=/images/highway.0.1
+FrontImage[EW]=/images/highway.1.1
+#
+BackRamp[N]=/images/highway.0.5
+FrontRamp[N]=/images/highway.1.5
+BackRamp[W]=/images/highway.0.4
+FrontRamp[W]=/images/highway.1.4
+BackRamp[S]=/images/highway.0.2
+FrontRamp[S]=/images/highway.1.2
+BackRamp[E]=/images/highway.0.3
+FrontRamp[E]=/images/highway.1.3
+#
+BackStart[N]=/images/highway.2.3
+FrontStart[N]=/images/highway.3.3
+BackStart[S]=/images/highway.2.0
+FrontStart[S]=/images/highway.3.0
+BackStart[E]=/images/highway.2.1
+FrontStart[E]=/images/highway.3.1
+BackStart[W]=/images/highway.2.2
+FrontStart[W]=/images/highway.3.2
+----------------------------------------------

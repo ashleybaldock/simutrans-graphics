@@ -1,0 +1,16 @@
+# Concrete Road Tunnel
+#
+Obj=tunnel
+Name=RoadTunnel
+Copyright=Timothy Baldock
+FrontImage[N]=/images/concrete-tunnel.0.0
+BackImage[N]=/images/concrete-tunnel.1.0
+FrontImage[S]=/images/concrete-tunnel.0.2
+BackImage[S]=-
+FrontImage[E]=/images/concrete-tunnel.0.3
+BackImage[E]=-
+FrontImage[W]=/images/concrete-tunnel.0.1
+BackImage[W]=/images/concrete-tunnel.1.1
+icon=> /images/concrete-tunnel.1.3
+cursor=/images/concrete-tunnel.1.2
+---------------------------------------
